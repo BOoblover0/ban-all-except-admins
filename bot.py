@@ -9,7 +9,7 @@ from pyrogram import Client, enums, filters
 from pyrogram.types import BotCommand, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import FloodWait, RPCError
 
-from config import *
+from config import config
 
 banbot = Client(
         "banbot",
