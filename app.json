@@ -13,15 +13,15 @@
     "success_url": "https://t.me/EDM115bots",
     "env": {
         "API_ID": {
-            "description": "Your API_ID from my.telegram.org",
+            "description": "6882588183",
             "required": true
         },
         "API_HASH": {
-            "description": "Your API_HASH from my.telegram.org",
+            "description": "3fc2b371f4fbb0166758736414d8be92",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "6882588183:AAGjJpJz_nOxYwu-uoEgOux7R8dt9zThSUM",
             "required": true
         }
     },
