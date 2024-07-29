@@ -1,4 +1,4 @@
-{
+to{
     "name": "Ban/Kick all users except admins",
     "description": "The title is explicit",
     "keywords": [
@@ -13,15 +13,15 @@
     "success_url": "https://t.me/EDM115bots",
     "env": {
         "API_ID": {
-            "description": "6882588183",
+            "description": "",
             "required": true
         },
         "API_HASH": {
-            "description": "3fc2b371f4fbb0166758736414d8be92",
+            "description": "",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "6882588183:AAGjJpJz_nOxYwu-uoEgOux7R8dt9zThSUM",
+            "description": "",
             "required": true
         }
     },
